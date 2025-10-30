@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(npm info:*)",
+      "Bash(npm run dev:*)",
+      "Bash(vercel:*)",
+      "Read(//Users/aansh/Downloads/**)",
+      "Read(//Users/aansh/Documents/**)",
+      "Bash(find:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(npx vercel:*)",
+      "Bash(zip:*)",
+      "Bash(curl:*)",
+      "Bash(node:*)",
+      "WebSearch"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
